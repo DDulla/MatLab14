@@ -614,8 +614,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4945df27b262f64197548c0eed6eba6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: 5
-  jumpForce: 5
+  velocity: 7
+  jumpForce: 7
   OnJump: 0
 --- !u!136 &986295591
 CapsuleCollider:
