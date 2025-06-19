@@ -2,7 +2,11 @@ fileFormatVersion: 2
 guid: acd2eeaf6f8774d45b907ae77ad737c3
 NativeFormatImporter:
   externalObjects: {}
+<<<<<<< HEAD
   mainObjectFileID: 0
+=======
+  mainObjectFileID: 2100000
+>>>>>>> MurguiaFabrizio
   userData: 
   assetBundleName: 
   assetBundleVariant: 
